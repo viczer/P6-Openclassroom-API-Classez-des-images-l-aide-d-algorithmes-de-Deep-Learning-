@@ -17,6 +17,3 @@ Il est construit à partir de Xception en tranfer learning.
 2. Exécuter classifier.py   
 3. Tester le modèle en se connectant à [localhost](http://127.0.0.1:5000)   
 
-## Support
-Je reste disponible pour plus d'informations
-adrian@datareporting.fr
